@@ -24,6 +24,8 @@ The dataset used for this project is sourced from Kaggle's [Airbnb Berlin Rating
 - **Sentiment Analysis:** Analyzed customer reviews to assess satisfaction.
 - **Geographic Analysis:** Mapped property locations to identify location-based trends.
 
+![Geographic Analysis](images/wordcloud.png)  
+![Sentiment Analysis](https://via.placeholder.com/600x300?text=Feature+Engineering)  
 
 
 
@@ -45,9 +47,7 @@ The dataset used for this project is sourced from Kaggle's [Airbnb Berlin Rating
 
 - **Model Aggregation:** Combined results from various models to finalize the dataset with the most relevant features.
 
-![Feature Engineering](https://via.placeholder.com/600x300?text=Feature+Engineering)  
-*Feature Engineering*  
-*Width: 600px, Height: 300px*
+
 
 ## Model Selection and Fine-Tuning
 
