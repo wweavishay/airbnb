@@ -84,7 +84,7 @@ The model will be deployed via an API integrated with property management platfo
 - **Renters:** Access accurate price predictions for informed decision-making.
 - **Property Management Platforms:** Gain actionable market insights and improve user experience.
 
-## Project Contributors
+## Project maker
 
 - **Avishay Aknin**
 - **Bar Ilan University- Data Science Course**
