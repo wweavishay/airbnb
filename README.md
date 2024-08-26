@@ -22,11 +22,14 @@ The dataset used for this project is sourced from Kaggle's [Airbnb Berlin Rating
 
 - **Statistics and Visualizations:** Generated basic statistics and visualizations to understand data distributions.
 - **Sentiment Analysis:** Analyzed customer reviews to assess satisfaction.
+![Sentiment Analysis](images/wordcloud.png)  
 - **Geographic Analysis:** Mapped property locations to identify location-based trends.
+![Geographic Analysis](images/mapprice.png)  
 
-![Geographic Analysis](images/wordcloud.png)  
-![Sentiment Analysis](https://via.placeholder.com/600x300?text=Feature+Engineering)  
 
+### Price target 
+
+![price target Analysis](images/pricedistubation.png)  
 
 
 ## Handling Missing Values
@@ -36,6 +39,8 @@ The dataset used for this project is sourced from Kaggle's [Airbnb Berlin Rating
 - **Initial Imputation:** Filled missing values using K-Nearest Neighbors (KNN) imputation. KNN is effective for predicting missing values by leveraging the similarity between observations.
 - **Record Removal:** Removed over 10,000 records with incomplete or unusable data.
 - **Final Imputation:** Completed remaining missing values using Label Encoding to ensure data integrity and usability.
+
+![null msno Analysis](images/nulls.png)  
 
 ## Feature Engineering and Feature Selection
 
@@ -64,9 +69,8 @@ The dataset used for this project is sourced from Kaggle's [Airbnb Berlin Rating
 
 - **Training and Testing Split:** Divided the dataset into 70% training and 30% testing, with further segmentation into low and high price categories.
 
-![Model Selection and Tuning](https://via.placeholder.com/600x300?text=Model+Selection+and+Tuning)  
-*Model Selection and Tuning*  
-*Width: 600px, Height: 300px*
+![price target Analysis](images/models.png)  
+
 
 ## Deployment and Impact
 
